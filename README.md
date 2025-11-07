@@ -1,26 +1,20 @@
-# wii.hacks.guide
+# Pimp My mini
 
-The complete guide to modding your Wii, vWii, and Wii mini.
+[![License](https://img.shields.io/github/license/Wii-Mini-Hacking/Guide_Wiimini?style=flat-square)](LICENSE.txt)
+![Discord Server](https://img.shields.io/discord/379818272230473729?style=flat-square)
 
-https://wii.hacks.guide/
+Pimp my mini is the complete guide to hardware modding your Nintendo Wii mini console
+It contains useful tutorials and information on restoring missing functionality from the Wii mini console or expanding its abilities further, making it closer in features to the original Wii console, with a dramatically different console footprint.
 
-## Running the site locally
+For more information, see [this Wikipedia article on the Wii mini and its differences to the original  Nintendo Wii](https://en.wikipedia.org/wiki/Wii#Wii_Mini)
+We're here to help people installing Homebrew Channel and many other mods to their consoles, allowing for doing pretty much anything with your console.
 
-This requires the following installed on your system:
-- node.js
+The site (work in progress): [wii-mini-hacking.github.io/Pimp-My-mini/](https://wii-mini-hacking.github.io/Pimp-My-mini/)
 
-To test the website locally, clone the source code:
+## Would you like to contribute?
 
-```sh
-git clone https://github.com/hacks-guide/Guide_Wii --recurse-submodules
-cd Guide_Wii
-```
+Pull requests and issues are greatly appreciated, though you may wish to join [our Discord server](https://discord.gg/6ryxnkS) for development discussion or support.
 
-Then simply run the following commands:
+### Credits
 
-```sh
-npm ci
-npm run docs:dev
-```
-
-The website should now be running on http://127.0.0.1:5173/ (or a port shown on the terminal).
+Codebase inherited from [Wii.hacks.guide](https://github.com/hacks-guide/Guide_Wii)

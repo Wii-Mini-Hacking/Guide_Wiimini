@@ -16,11 +16,11 @@ export default defineConfig({
   head: [['link', { rel: 'icon', href: '/images/site-config/favicon.ico' }]],
   locales: {
     root: i18n.en_US,
-    hu_HU: i18n.hu_HU,
-    ko_KR: i18n.ko_KR
+    //hu_HU: i18n.hu_HU,
+    //ko_KR: i18n.ko_KR
   },
   sitemap: {
-    hostname: 'https://wii.hacks.guide'
+    hostname: 'https://wii.hacks.guide' //TODO: Need to change
   },
   themeConfig: {
     outline: {
@@ -31,7 +31,7 @@ export default defineConfig({
       next: false
     },
     socialLinks: [
-      { icon: 'discord', link: 'https://discord.gg/MWxPgEp' },
+      { icon: 'discord', link: 'https://discord.gg/MWxPgEp' }, //TODO: Also change
       { icon: 'github', link: 'https://github.com/hacks-guide/Guide_Wii' }
     ]
   },

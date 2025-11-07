@@ -7,5 +7,8 @@ codekit-config.json
 docs/.vitepress/cache
 docs/.vitepress/dist
 
+#Upstream Pages
+#docs.old/**
+
 # macOS
 .DS_Store
