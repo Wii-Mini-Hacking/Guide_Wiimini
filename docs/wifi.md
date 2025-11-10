@@ -1,7 +1,7 @@
 ---
 title: WiFi Adapter Mod
 ---
-{% include toc title="Table of Contents" %}
+# WiFi Adapter Mod
 
 ## Introduction
 
@@ -36,15 +36,16 @@ Firstly, you will need to solder the passive components, located on both sides o
 1. Bottom Side (Side-A):
 
 	The bottom side has most of the components other than C136 and the wifi card connector itself, which are located on the other side. Locate the pads (marked blue) on the bottom side of the board and solder the appropriate components as shown in the table above. You can use the following image as a reference:
-	![Bottom side of the board](/Pimp-My-mini/images/motherboard/wifi-mobo-side-a.png)
+	![Bottom side of the board](/images/motherboard/wifi-mobo-side-a.png)
 
 1. Top Side (Side-B)
 
 	You will also need to solder on C136, as well as the connector for the wifi card itself on the top side of the board. Use the following image as reference:
-	![Top side of the board](/Pimp-My-mini/images/motherboard/wifi-mobo-side-b.png)
+	![Top side of the board](/images/motherboard/wifi-mobo-side-b.png)
 
+	::: info
 	If your board has its test points pre-tinned with lead-free solder, it is highly recommended you wick it off before you solder the components on with your own, preferably leaded. This is because leaded solder has a lower melting point than lead-free solder, and the two do not mix well together, resulting in a brittle joint that can break easily.
-	{: .notice--info}
+	:::
 
 1. Attach the wifi card to the console, extending out from the board following the silkscreen outline, just like the bluetooth card next to it.
 <!-- Your board should look similar to this: -->
@@ -54,15 +55,18 @@ Firstly, you will need to solder the passive components, located on both sides o
 
 
 
+::: info
 If you do not have a WiFi card already installed, [proceed to installing the System Menu (no WiFi card)](sminstall-nowifi)
-{: .notice--info}
+:::
 
 If you already have a WiFi card installed, you should have already re-installed the System Menu. 
 
+::: success
 We'd love to see your completed mod, feel free to join us on [our Discord](https://discord.gg/6ryxnkS) and post a picture in #pimping-general
-{: .notice--success}
+:::
 
+::: info
 [Return to Pick-a-Pimp](pick-a-pimp) | [Continue to site navigation](site-navigation)<br>
 We have other tutorials that you might like.
-{: .notice--info}
+:::
 

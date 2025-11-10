@@ -1,8 +1,7 @@
 ---
 title: Mii Channel upgrade
 ---
-{% include toc title="Table of Contents" %}
-
+# Mii Channel upgrade
 ## Preface
 
 While at first glance the Mii Channel may look the same as the one that came with previous models of the Wii, the Wii mini version is missing some features. You cannot share Miis by copying them over to Wii remotes, DSi consoles, or by sending them in the Mii Parade.
@@ -40,6 +39,7 @@ For macOS and Linux-based systems, Sharpii NetCore is the easiest option, but it
 1. Follow the [Wii Mod Lite guide](https://wii.guide/wiimodlite) to install Mii-Channel.wad
 1. Press home and return to the Wii Menu, launch the Mii Channel and you should now have everything available.
 
+::: info
 [Return to Pick-a-Pimp](pick-a-pimp) | [Continue to site navigation](site-navigation)<br>
 We have other tutorials that you might like.
-{: .notice--info}
+:::

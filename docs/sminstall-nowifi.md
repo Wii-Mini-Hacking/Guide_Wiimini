@@ -3,8 +3,9 @@ title: Installing the System Menu (no WiFi)
 ---
 {% include toc title="Table of Contents" %}
 
+::: danger
 Do NOT install ANY Wii IOS using a standard WAD Manager without explicit instruction from this guide if you do not have a WiFi card on your console and are certain it is installed properly. Doing so **WILL** permanently render your console unusable until a WiFi card is soldered on.
-{: .notice--danger }
+:::
 
 ## Preface
 
@@ -16,8 +17,9 @@ The Wii mini's System Menu, while it is the latest version (4.3E/U), has been he
 
 In order to restore any of these features with hardware mods, replacing the Wii mini System Menu with the original one, as well as replacing some other modified [IOS](https://wiibrew.org/wiki/IOS) (slot 80 for the System Menu itself, slot 58 for the Homebrew Channel and 36 for legacy homebrew and most disc games), is also needed. However, if you do not have a WiFi card installed, simply installing the original Wii IOS **will BRICK the console** since it will hang on initializing the card. Instead, a custom tool called Wiini SD Patcher is used to patch out the WiFi module driver from the required IOSes and relatively safely install them. 
 
+::: info
 You will only need to do this once. If you performed a second hardware mod that requires it, such as installing a component mod after an SD card slot mod (or vice versa), you won't need to reinstall the System Menu again.
-{: .notice--info }
+:::
 
 ## Instructions
 
@@ -95,15 +97,17 @@ chmod +x
 1. Hold the home button again for 2 seconds.
 1. Wait for the patcher to complete, if all goes well you should automatically return to the System Menu, and you should immediately notice an SD card icon on the bottom left, which will indicate that the operation was successful.
 
+::: warning
 If you see an error, take a picture or a note of it, the app may return you to the Homebrew channel. Do **NOT** turn off the console. Join our support discord **immediately** (link at the top of the page).
-{: .notice--warning }
+:::
 
 ## Conclusion
 
 The complete Wii System Menu should now be installed and the sd card and other wii-specific features should work in the homebrew channel and most homebrew apps. You can now use any hardware mods you have made that require it. 
 
+::: info
 Note that the Homebrew channel may appear upside-down. That is normal due to the nature of the custom nowifi IOS installed. That issue can be solved by [Installing the Open Homebrew Channel wad](https://github.com/wii-Mini-Hacking/hbc/releases/latest) instead using [Wii Mod Lite](https://wii.guide/wiimodlite)
-{: .notice--info }
+:::
 
 ### BONUS! - Temporary Priiloader fix
 
@@ -141,9 +145,11 @@ Due to the fact that the developer of the Wiini SD patcher is highly incompetent
     document.getElementById("defaultOpen").click();
 </script>
 
+::: success
 We'd love to see your completed mod, feel free to join us on [our Discord](https://discord.gg/6ryxnkS) and post a picture in #pimping-general
-{: .notice--success}
+:::
 
+::: info
 [Return to Pick-a-Pimp](pick-a-pimp) | [Continue to site navigation](site-navigation)<br>
 We have other tutorials that you might like.
-{: .notice--info}
+:::

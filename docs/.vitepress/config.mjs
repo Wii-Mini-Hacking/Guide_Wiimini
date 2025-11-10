@@ -31,8 +31,8 @@ export default defineConfig({
       next: false
     },
     socialLinks: [
-      { icon: 'discord', link: 'https://discord.gg/MWxPgEp' }, //TODO: Also change
-      { icon: 'github', link: 'https://github.com/hacks-guide/Guide_Wii' }
+      { icon: 'discord', link: 'https://discord.gg/6ryxnkS' }, //TODO: Also change
+      { icon: 'github', link: 'https://github.com/Wii-Mini-Hacking/Guide_Wiimini/' }
     ]
   },
   cleanUrls: true,
@@ -74,6 +74,18 @@ export default defineConfig({
             return `<Tab name="${token.info.match(/^ ?tab\s+(.*)$/)[1]}">`;
           } else {
             return `</Tab>\n`;
+          }
+        }
+      });
+
+      // Add a 'success' container similar to other custom-blocks.
+      md.use(container, 'success', {
+        render: (tokens, idx) => {
+          const token = tokens[idx];
+          if (token.nesting === 1) {
+            return `<div class="custom-block success">\n`;
+          } else {
+            return `</div>\n`;
           }
         }
       });

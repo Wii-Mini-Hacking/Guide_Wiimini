@@ -1,7 +1,7 @@
 ---
 title: miniRGBii Component Mod
 ---
-{% include toc title="Table of Contents" %}
+# miniRGBii Component Mod
 
 ## Introduction
 
@@ -19,8 +19,8 @@ One feature that really sets the Wii mini apart from its older brother, is the l
 
 1. Find a good placement for the minirgbii board and secure it with double-sided or kapton tape. A good position is ideally close to the AV Multi Out connector, as well as the AVE-RVL chip.
 1. Make the following connections from the miniRGBii board to the respective points on the Wii mini motherboard, using as short wires as possible to minimize interference:
-	![miniRGBii pcb pads](/Pimp-My-mini/images/miniRGBii.png)
-	![miniRGBii mobo pads](/Pimp-My-mini/images/motherboard/miniRGBii-mobo-pads.png)
+	![miniRGBii pcb pads](/images/pimp-my-mini/miniRGBii.png)
+	![miniRGBii mobo pads](/images/motherboard/miniRGBii-mobo-pads.png)
 	(Right Click an image > Open in New Tab (or pinch on a touchscreen/trackpad) to zoom)
 
 	- GND sink (⏚) to any ground pad on the board (coloured black)
@@ -45,15 +45,18 @@ One feature that really sets the Wii mini apart from its older brother, is the l
 
 Congratulations! You should now have component video wired up. However, in order to use it, you will need to install the original Wii System Menu, if you haven't already.
 
+::: info
 If you do not have a WiFi card already installed, [proceed to installing the System Menu (no WiFi card)](sminstall-nowifi)
-{: .notice--info}
+:::
 
 If you already have a WiFi card installed, you should have already re-installed the System Menu. 
 
-We'd love to see your completed mod, feel free to join us on [our Discord](https://discord.gg/6ryxnkS) and post a picture in #pimping-general
-{: .notice--success}
+::: success
+We'd love to see your completed mod, feel free to join us on [our Discord](https://discord.gg/6ryxnkS) and post a picture in #the-forums!
+:::
 
+::: info
 [Return to Pick-a-Pimp](pick-a-pimp) | [Continue to site navigation](site-navigation)<br>
 We have other tutorials that you might like.
-{: .notice--info}
+:::
 

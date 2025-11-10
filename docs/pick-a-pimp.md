@@ -1,13 +1,16 @@
 ---
 title: Pick-a-Pimp
 ---
-{% include toc title="Table of Contents" %}
+# Pick-a-Pimp
+
+Below you can find a list of ways to pimp your wii mini, as well as the available guides for each mod.
+
 ## Possible upgrades
 
 Thanks to the hard work done by the Wii mini Hacking community members, many features of the original Wii have been brought back to the Wii mini, either through software or hardware means, or a mix of both.
 Specifically:
 
-- Homebrew execution was brought to the console via the [Bluebomb](https://github.com/Fullmetal5/bluebomb) exploit back in 2019 by Fullmetal5. (instructions on [wii.guide](https://wii.guide/bluebomb))
+- Homebrew execution was brought to the console via the [Bluebomb](https://github.com/Fullmetal5/bluebomb) exploit back in 2019 by Fullmetal5. (instructions on [wii.guide](https://wii.hacks.guide/bluebomb))
 - Game backups through USB loaders can be played using Leseratte's custom d2xl cIOS, built on top of the d2x cIOS for the original Wii (see above link)
 - You can replace the stripped down Mii Channel with the full version by downloading it from Nintendo's servers using Sharpii or NUSD (see guide below)
 - Wired internet connectivity can be restored through Fullmetal5's [Ethernet Enabler Homebrew](https://wiibrew.org/wiki/Ethernet_Enabler) and using any off-the-shelf USB LAN adapter that utilises the AX88772 network chip¹. We have found that this adapter from UGREEN appears to work fine: [Amazon Europe](https://www.amazon.de/dp/B00MYT481C) [Amazon US](https://www.amazon.com/dp/B08DRKYKMM/)
@@ -27,6 +30,6 @@ The following guides are currently available, with more to come in the future:
 - [Generic SD/microSD Card Slot](sdcard)
 - [miniRGBii add-in board for component video/480p output](miniRGBii)
 - [WiFi Adapter install](wifi)
+- [Mii Channel restore removed features](mii-upgrade)
 <!--- TBA: [GameCube controller ports 1&4](gcc)-->
 <!--- TBA: [GameCube memory card slot 1](gcmem)-->
-- [Mii Channel restore removed features](mii-upgrade)

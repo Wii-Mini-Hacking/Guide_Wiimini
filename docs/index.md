@@ -5,7 +5,7 @@ hero:
   text: "Pimp My mini"
   tagline: "The complete guide to hardware modding your Nintendo Wii mini"
   image: 
-    src: /images/home-page-feature.jpg
+    src: /images/main-pages/home-page-feature.jpg
 ---
 ::: info
 

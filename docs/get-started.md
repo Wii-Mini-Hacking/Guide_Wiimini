@@ -1,23 +1,24 @@
 ---
 title: "Get Started"
 ---
-
-{% include toc title="Table of Contents" %}
-
+# Getting Started
 Let's get started with pimping your Wii mini.
 
 ### First of all, some ground rules
 
+::: warning
 This guide is only intended for **advanced** users and requires the use of soldering equipment that can cause serious burns and damage to your console or even a fire if used improperly. Continue **AT YOUR OWN RISK**. You have been warned. None of the authors of this guide, contributors or members of our Discord, or any other individual was, is, or ever will be responsible for any damage done to your console, other property, yourself or others.
-{: .notice--warning }
+:::
 
+::: info
 Before attempting to carry out any guide in this website or following any external links, we recommend reading the **entire** page _at least_ once, to get a general idea of what to do and how to do it.
 This can also help prevent unnecessary purchases, so you know how and if you can carry out the mod before spending money on any tools or parts.
 If something doesn't quite make sense, you can try visualising how it will work by looking at the Wii mini board in front of you, while not having any tools near you. If it still doesn't make sense and you need help, feel free to join our Discord server linked above. 
-{: .notice--info }
+:::
 
+::: danger
 To prevent from bricking your console, do NOT install **ANY** IOSes without being instructed by this guide or wii.guide's Wii mini-specific pages without having a WiFi module installed. You should also never follow any video tutorials that do not directly link to this website or wii.guide.
-{: .notice--danger}
+:::
 
 ### You will need
 
@@ -41,18 +42,22 @@ Once you have read, acquired and completed all of the above, you can start by ta
 
 [This excellent guide](https://www.ifixit.com/Guide/Nintendo+Wii+mini+Motherboard+Replacement/37774) on iFixit can help you with that. Follow it until the end and make sure to store your screws and little parts somewhere safe if you don't plan to immediately close your console back. 
 
+::: info
 Please be extra cautious when fiddling with the power button board, as the ribbon cable is rather delicate and can get damaged easily. Also make sure to store the disc drive module in an enclosed container if you plan to stow it for a long time, as dust and debris can damage the laser head or carriage.
-{: .notice--info }
+:::
 
 You should now have the Wii mini board outside its casing and ready to be worked on. Please note that for the console to boot in its current state, the bluetooth card and disc drive sub-board need to be attached. The disc drive mechanism itself is not needed, so you can *very* gently disconnect the 3 ribbon cables of the black disc drive assembly from the back of the disc drive driver board and unhook it. Again, store that in a safe and dust-free environment.
 
+::: warning
 While the console will boot without a heatsink or fan, it is not designed to run passively so keep an eye on its temperature and do not leave it running for any more than absolutely necessary. You should also refrain from running any games or demanding software without active cooling.
-{: .notice--warning }
+:::
 
+::: info
 The thermal pads and paste used to attach the CPU and GPU to the heatsink are not strictly reusable, but if you avoid leaving any marks or fingerprints on them while working on the board you _could_ reuse them. Since most mods are performed on the back side of the board, you can also keep the top metal shield attached to the motherboard to protect the thermal solution. If you want to replace them, remove them off the chips and the metal shield by scraping and cleaning with IPA or another 90%+ unscented alcohol solution and reapply pads of identical thickness to the originals.
-{: .notice--info }
+:::
 
 ### The Saga Begins
 
+::: info
 Once you've read all of the above, you can proceed to [pick-a-pimp](pick-a-pimp)
-{: .notice--info }
+:::
