@@ -79,7 +79,7 @@ While the card reader is installed, it will not be functional yet, as the stock 
 If you haven't already, you will need to install the original Wii System Menu:
 
 ::: info
-[Continue to installing the System Menu (no WiFi card)](sminstall-nowifi)
+[Continue to installing the System Menu (no WiFi card)](sminstall-nowifi?tab=windows)
 Without a WiFi card, a special procedure has to be followed to restore SD card functionality, as well as other stripped out features.
 :::
 

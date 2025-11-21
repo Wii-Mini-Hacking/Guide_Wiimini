@@ -1,5 +1,5 @@
 # Donations
-
+<!-- TODO: Add donations??? -->
 ::: tip
 
 [![Paypal](/images/main-pages/donations/paypal_white.png)](https://paypal.me/NintendoHomebrew){style="display: block;text-align: center"}

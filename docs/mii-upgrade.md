@@ -36,7 +36,8 @@ For macOS and Linux-based systems, Sharpii NetCore is the easiest option, but it
 		The WAD will be saved to the same folder the Sharpii binary is in.
 
 1. Copy the wad file to your Wii mini USB drive.
-1. Follow the [Wii Mod Lite guide](https://wii.guide/wiimodlite) to install Mii-Channel.wad
+1. Follow the [Wii Mod Lite guide](https://wii.guide/wiimodlite) to install Mii-Channel.wad 
+<!--TODO: replace with YAWMM-->
 1. Press home and return to the Wii Menu, launch the Mii Channel and you should now have everything available.
 
 ::: info

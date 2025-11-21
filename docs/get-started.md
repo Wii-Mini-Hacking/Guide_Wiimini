@@ -32,7 +32,7 @@ We will not teach you how to use any of these tools, simply because this guide i
 
 ### Softmodding
 
-Most of these mods require basic access to homebrew on the Wii mini, so you should first follow our sibling softmodding guide at [wii.guide](https://wii.guide) from Bluebomb all the way to d2xl cios. For any help with that, feel free to join the Wii mini hacking Discord, linked at the top of this page.
+Most of these mods require basic access to homebrew on the Wii mini, so you should first follow our sibling softmodding guide at [wii.hacks.guide](https://wii.hacks.guide) from Bluebomb all the way to d2xl cios. For any help with that, feel free to join the Wii mini hacking Discord, linked at the top of this page.
 
 Follow the instructions for modding your console with Bluebomb, installing the Homebrew channel and Priiloader. Read all the Dos and Dont's of Wii modding, but do not proceed to installing cIOS if you haven't already, it's not needed at the moment and may actually complicate the process.
 

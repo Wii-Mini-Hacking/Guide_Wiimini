@@ -9,7 +9,7 @@ One feature that really sets the Wii mini apart from its older brother, is the l
 
 ## Parts/Tools Required
 
-- Job and Devnol's miniRGBii board, which you can [purchase on Tindie](https://www.tindie.com/products/27985/) or get the [Open Source KiCAD files](https://github.com/Wii-Mini-Hacking/miniRGBii) from our GitHub to manufacture it yourself.
+- Job and Devnol's miniRGBii board, which you can [purchase on Lectronz](https://lectronz.com/products/minirgbii) or get the [Open Source KiCAD files](https://github.com/Wii-Mini-Hacking/miniRGBii) from our GitHub to manufacture it yourself.
 - A Wii AV Component cable. Though Nintendo no longer sells these, you can get 3rd party options in varying quality and price ranges.
 - Very thin wrapping or enameled magnet wire (≤30awg)
 - A _quality_ soldering iron with a fine tip
@@ -46,7 +46,7 @@ One feature that really sets the Wii mini apart from its older brother, is the l
 Congratulations! You should now have component video wired up. However, in order to use it, you will need to install the original Wii System Menu, if you haven't already.
 
 ::: info
-If you do not have a WiFi card already installed, [proceed to installing the System Menu (no WiFi card)](sminstall-nowifi)
+If you do not have a WiFi card already installed, [proceed to installing the System Menu (no WiFi card)](sminstall-nowifi?tab=windows))
 :::
 
 If you already have a WiFi card installed, you should have already re-installed the System Menu. 

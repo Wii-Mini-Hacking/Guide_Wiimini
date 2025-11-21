@@ -7,7 +7,7 @@ title:  Webhdx's WiiMini-SDRST Mod kit
 Adding a reset switch and an SD card slot to the Wii mini are relatively simple mods, however they might prove inelegant. This mod kit made by Webhdx aims to solve that by providing a clean, easy to install solution. It is designed to fit flush inside the dvd tray and accepts a microSD card.
 
 ## Parts/Tools Required
-- Webhdx's WiiMini-SDRST Mod kit, which you can [purchase on Tindie](https://www.tindie.com/products/webhdx/wiimini-sdrst-sd-reset-button-mod-for-wii-mini/)
+- Webhdx's WiiMini-SDRST Mod kit, which you can [purchase on his website](https://store.webhdx.dev/products/wii-mini-sdrst-kit)
 - A good quality soldering iron
 - A multimeter with at least continuity mode for testing
 - 2mm and 4mm drill bits
@@ -38,7 +38,8 @@ Adding a reset switch and an SD card slot to the Wii mini are relatively simple 
 	Do not fold the cable completely flat on itself like you would on a piece of paper, as it may crack the cable internally.
 	:::
 
-Your board should now look something like this: ![sdrst qsb installed](/images/sdrst/sdrst_qsb_installed.jpg)
+Your board should now look something like this: ![sdrst qsb installed](/images/sdrst/sdrst_qsb_installed.jpg) 
+<!-- TOOD: GOD THAT SOLDER JOB IS HORRID -->
 
 ::: info
 You may now set the motherboard aside.

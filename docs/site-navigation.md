@@ -37,7 +37,7 @@
 **Site**
 + [Home](/)
 + [Get Started](get-started)
-+ [FAQ](faq)
+<!--+ [FAQ](faq)-->
 + [Donations](donations)
 
 :::

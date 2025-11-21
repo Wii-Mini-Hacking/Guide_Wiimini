@@ -23,17 +23,17 @@ A simple reset switch is the simplest hardware mod available for the Wii mini. I
 
 1.	Solder one of your two wires on that pad and to one side of your switch  
 
-1.	Solder the other wire to the opposite side of your switch (if it's a 4-pin smd or tht button the pin diagonal to the one you soldered to before will always be on the opposite side of the open circuit) and connect it to any ground pad on the board, marked black below:
+1.	Solder the other wire to the opposite side of your switch (if it's a 4-pin SMD or THT button the pin diagonal to the one you soldered to before will always be on the opposite side of the open circuit) and connect it to any ground pad on the board, marked black below:
 	![Ground Pads](/images/motherboard/gnd.png)
 
 	::: info
-	Please check wether the pad you're soldering to interferes with the metal shield or any screws before soldering. It's okay to bend a shield flap a little if you want it to fit, as long as it doesn't interfere with the console's plastic casing.
+	Please check whether the pad you're soldering to interferes with the metal shield or any screws before soldering. It's okay to bend a shield flap a little if you want it to fit, as long as it doesn't interfere with the console's plastic casing.
 	:::
 
 1.	Find a place to mount your button on your case. A good position is usually either the rear of the console or the little insets on the inside of the disc drive tray, where your fingers normally go for lifting the disc. This greatly depends on the size and type of your button.
 
 	::: info
-	Before you mount your button, make sure that it actually does fit inside the case completely and there's space for the wires to be routed to the board, even with the metal shield, plastic shroud and dvd drive in place.
+	Before you mount your button, make sure that it actually does fit inside the case completely and there's space for the wires to be routed to the board, even with the metal shield, plastic shroud and disc drive in place.
 	:::
 
 ## Post-Install

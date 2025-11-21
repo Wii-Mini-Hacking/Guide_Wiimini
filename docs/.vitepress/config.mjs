@@ -11,8 +11,8 @@ import container from 'markdown-it-container'
 import * as i18n from './i18n'
 
 export default defineConfig({
-  title: "Wii Hacks Guide",
-  description: "The complete guide to modding your Wii, vWii, and Wii mini",
+  title: "Pimp My mini",
+  description: "The complete guide to hardware modding your Wii mini",
   head: [['link', { rel: 'icon', href: '/images/site-config/favicon.ico' }]],
   locales: {
     root: i18n.en_US,
@@ -31,7 +31,7 @@ export default defineConfig({
       next: false
     },
     socialLinks: [
-      { icon: 'discord', link: 'https://discord.gg/6ryxnkS' }, //TODO: Also change
+      { icon: 'discord', link: 'https://discord.gg/6ryxnkS' }, 
       { icon: 'github', link: 'https://github.com/Wii-Mini-Hacking/Guide_Wiimini/' }
     ]
   },

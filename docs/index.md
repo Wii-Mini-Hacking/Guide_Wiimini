@@ -7,10 +7,8 @@ hero:
   image: 
     src: /images/main-pages/home-page-feature.jpg
 ---
-::: info
-
-The guide is also available in other languages! To change the language, please press the icon at top right and change your language.
-
+::: danger
+This guide is a work in progress. Some sections may be incomplete or missing. Please always consult the Wii mini Hacking Discord (link at the top right of the page) if you need help or have any questions.
 :::
 
 ## So what is "hardware modding"?
@@ -22,8 +20,8 @@ Hardware modding, or hardmodding for short, is the act of modifying an off-the-s
 The Wii mini (model RVL-201, hereafter referred to as "Wiini" for short), was a severely cut-down version of the original Wii, designed by Nintendo in a very cost-effective manner in order to get rid of old chip stock and get every last penny possible from the popularity of the Wii, before it was discontinued and replaced by its flawed successor, the Wii U. Specifically, the Wii mini lacks the following features compared to the original Wii (RVL-001):
 
 - **Reset Button**: Not particularly useful for normal use as the Home pause menu had a reset option, however necessary for some homebrew tools.
-- **SD Card Slot**: Used by some games such as the Super Smash Bros. Brawl and a lot of homebrew, especially older ones.
-- **WiFi Connectivity**: Nintendo WiFi Connection and WiiConnect24 was discontinued shortly after the Wii mini's release, so including networking support was fairly redundant. However, [Wiimmfi](https://wiimmfi.de) and [RiiConnect24](https://rc24.xyz) can now restore most missing network features, however they do require some hardware modding for use on the wiini.
+- **SD Card Slot**: Used by some games such as Super Smash Bros. Brawl and a lot of homebrew, especially older ones.
+- **WiFi Connectivity**: Nintendo WiFi Connection and WiiConnect24 was discontinued shortly after the Wii mini's release, so including networking support was fairly redundant. However, [Wiimmfi](https://wiimmfi.de) and [Wiilink](https://wiilink.ca) can now restore most missing network features, however they do require some hardware modding for use on the wiini.
 - **Ethernet Connection**: Similarly to WiFi, Nintendo also removed support for the Wii LAN Adapter for wired networking. Basic functionality for it can be restored using just software, but it isn't particularly useful since Wiimmfi and RC24 still require hardware modding.  
 - **Component Video**: The Wii mini AV out port, while it's identical to the one on the regular Wii, can only output Composite Video (Yellow coaxial cable) in either 480i or 576i (interlaced). It does not support the crisper 480p output that Component (YPbPr) Provides
 - **Second USB Port**: The Wii mini only has 1 USB port instead of 2, again probably as an extreme cost-cutting measure, since the games that needed more than 1 port (and didn't require internet) were next to none.

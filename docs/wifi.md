@@ -13,7 +13,7 @@ Adding WiFi to the Wii mini requires not only the Wii WiFi module, but also the 
 - A Wii WiFi card, which can be salvaged from a broken Wii or purchased online from eBay or AliExpress.
 - An assortment of smd components listed in the table below, which can be purchased from any components retailer such as Mouser, DigiKey, etc.
 - Two 2.4GHz antennae with uFL connectors, which can be salvaged from another Wii or purchased online from various retailers.
-- You can optionally obtain all of the above in a convenient kit put together by Webhdx, which you can [purchase on Tindie](https://www.tindie.com/products/webhdx/wifi-kit-for-wii-mini/), which can help you save time and even money, depending on where you live.
+- You can optionally obtain all of the above in a convenient kit put together by Webhdx, which you can [purchase on his website](https://store.webhdx.dev/products/wifi-kit-for-wii-mini/), which can help you save time and even money, depending on where you live.
 - A _quality_ soldering iron with a fine tip
 
 Required SMD Components:
@@ -21,7 +21,7 @@ Required SMD Components:
 | Designator | Value | Package (imp)| Quantity |
 |------------|-------|---------|----------|
 | P13 CONN   | 0529910208 20-pin molex connector | N/A | 1 |
-| RA20       | 4χ 100Ω| 0402   | 1        |
+| RA20       | 4x 100Ω Resistor Array | 0402   | 1        |
 | R212, R213 | 100Ω  | 0402    | 2        |
 | FIL50      | 1Ω    | 0603    | 1 (optional)|
 | C136       | 10nF 16V| 0402  | 1        |
@@ -31,7 +31,7 @@ Required SMD Components:
 
 ## Instructions
 
-Firstly, you will need to solder the passive components, located on both sides of the board. Solder the component in the table above to their corresponding spots on the boards marked in blue (Right-click or hold image and open in new tab to enlarge). The reference designators on the first column of the table correspond to the silkscreen markings on the board. Solder the components to the empty pads adjacent to those silkscreen markings.
+Firstly, you will need to solder the passive components, located on both sides of the board. Solder the components in the table above to their corresponding spots on the boards marked in blue (Right-click or hold image and open in new tab to enlarge). The reference designators on the first column of the table correspond to the silkscreen markings on the board. Solder the components to the empty pads adjacent to those silkscreen markings.
 
 1. Bottom Side (Side-A):
 
@@ -60,6 +60,7 @@ If you do not have a WiFi card already installed, [proceed to installing the Sys
 :::
 
 If you already have a WiFi card installed, you should have already re-installed the System Menu. 
+<!-- TODO: why the fuck is this here -->
 
 ::: success
 We'd love to see your completed mod, feel free to join us on [our Discord](https://discord.gg/6ryxnkS) and post a picture in #pimping-general
