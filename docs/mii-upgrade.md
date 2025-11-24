@@ -18,9 +18,9 @@ For macOS and Linux-based systems, Sharpii NetCore is the easiest option, but it
 1. Download the latest release of Sharpii NetCore from [TheShadowEevee's GitHub](https://github.com/TheShadowEevee/Sharpii-NetCore/releases/latest) for your operating system and architecture. 
 	- If your machine has an Intel or AMD cpu, choose the x64 build for your Operating System. 
 	- If using an Apple Silicon Mac, choose the MacOSX-arm64 build. 
-	- If using an arm-based Linux box, choose the arm or arm64 build depending on the architecture.
+	- If using an arm-based Linux machine (e.g. Raspberry Pi), choose the arm or arm64 build depending on the architecture.
 1. Decompress the 7z and optionally copy the Sharpii executable to a location of your choice
-1. (macOS/Linux only): Open your Terminal app (on macOS it's in the Utilities folder in your Launchpad), type `chmod +x ` and drag the Sharpii binary you just extracted from your file explorer to the terminal window, then hit enter to make it executable.
+1. (macOS/Linux only): Open your Terminal app (on macOS it's in the Utilities folder in your Launchpad), type `chmod +x ` and drag the Sharpii binary you just extracted from your file explorer to the terminal window, then hit enter to make it executable (that is `chmod +x /path/to/Sharpii`).
 1. Open a terminal window in the folder Sharpii is in (or cd to it)
 	- For macOS, go one directory above the folder, `Ctrl+Click` the folder icon > Services > New Terminal at Folder
 
@@ -36,8 +36,7 @@ For macOS and Linux-based systems, Sharpii NetCore is the easiest option, but it
 		The WAD will be saved to the same folder the Sharpii binary is in.
 
 1. Copy the wad file to your Wii mini USB drive.
-1. Follow the [Wii Mod Lite guide](https://wii.guide/wiimodlite) to install Mii-Channel.wad 
-<!--TODO: replace with YAWMM-->
+1. Follow the [YAWMM-ME guide](https://wii.hacks.guide/yawmme) to install Mii-Channel.wad 
 1. Press home and return to the Wii Menu, launch the Mii Channel and you should now have everything available.
 
 ::: info

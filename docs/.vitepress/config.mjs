@@ -20,7 +20,7 @@ export default defineConfig({
     //ko_KR: i18n.ko_KR
   },
   sitemap: {
-    hostname: 'https://wii.hacks.guide' //TODO: Need to change
+    hostname: 'https://wiimini.hacks.guide'
   },
   themeConfig: {
     outline: {
@@ -120,6 +120,8 @@ export default defineConfig({
     'uk_UA/**',
     'vi_VN/**',
     'zh_CN/**',
-    'zh_TW/**'
+    'zh_TW/**',
+    'ko_KR/**',
+    'hu_HU/**'
   ]
 })

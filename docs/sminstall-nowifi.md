@@ -115,8 +115,8 @@ Note that the Homebrew channel may appear upside-down. That is normal due to the
 
 Due to the fact that the developer (me) of the Wiini SD patcher is highly incompetent, the patcher currently breaks priiloader and perhaps some other functionality, which may be a problem for some users. It is strongly recommended you follow the steps below to fix the issue, which will be properly fixed in a future release of the patcher, sometime soon™.
 
-1. Download the latest release of [Priiloader](https://oscwii.org/library/app/priiloader) and extract the contents of the zip to your SD card or USB drive.
-1. Download [Wii Mod Lite](https://wii.guide/wiimodlite) and extract the contents of the zip to your USB drive. 
+1. Download the latest release of [Priiloader](https://oscwii.org/library/app/priiloader) and extract the contents of the zip to your USB drive.
+1. Download [Wii Mod Lite](https://oscwii.org/library/app/WiiModLite) and extract the contents of the zip to your USB drive. 
 <!-- TODO: GOD DAMMIT USE YAWMM -->
 1. Open Wii Mod Lite from the Homebrew Channel, go to WAD Manager and select USB Mass Storage Device.
 1. Install **ONLY** the System Menu v4.3 WAD you acquired in section I, do **NOT** install any of the 3 IOSes because you **WILL** brick your console.

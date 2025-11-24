@@ -19,7 +19,7 @@ const themeConfig = {
 	nav: [
 		{ text: localeData.pages["site-navigation"], link: `/site-navigation` },
 		{ text: localeData.pages["pick-a-pimp"], link:`/pick-a-pimp` },
-		{ text: localeData.pages["faq"], link: `/faq` },
+		//{ text: localeData.pages["faq"], link: `/faq` },
 		//TODO: add extras if any
 		//{
 		//	text: localeData.extras,
@@ -59,7 +59,7 @@ const themeConfig = {
 		]
 	},
 	footer: {
-		copyright: 'Copyright © 2025 Nintendo Homebrew',
+		copyright: 'Copyright © 2025 Wii mini Hacking',
 		items: [
 			{ text: localeData.pages["donations"], link: `/donations` },
 			//{ text: localeData.pages["privacy-policy"], link: `/privacy-policy` },
