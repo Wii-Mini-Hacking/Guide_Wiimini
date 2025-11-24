@@ -1,12 +1,12 @@
 name: Upload source files to Crowdin
 
 on:
-  push:
-    branches: [ master ]
-    paths:
-      - 'docs/**.md'
-      - 'docs/_include/**.md'
-      - 'docs/.vitepress/i18n/strings/en_US.json'
+  #push:
+  #  branches: [ master ]
+  #  paths:
+  #    - 'docs/**.md'
+  #    - 'docs/_include/**.md'
+  #    - 'docs/.vitepress/i18n/strings/en_US.json'
   workflow_dispatch:
 
 jobs:

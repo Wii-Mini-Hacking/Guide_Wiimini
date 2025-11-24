@@ -1,8 +1,8 @@
 name: Import translations from Crowdin
 
 on:
-  schedule:
-    - cron: "0 0 1,15 * *"
+  #schedule:
+  #  - cron: "0 0 1,15 * *"
   workflow_dispatch:
 
 jobs:
